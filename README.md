@@ -1,6 +1,6 @@
 # M1 Reset Script (TSB - Roblox)
 
-> A lightweight and powerful M1 reset script
+> A lightweight M1 reset script
 
 ## 📜 Script
 
